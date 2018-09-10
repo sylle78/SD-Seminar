@@ -1,0 +1,26 @@
+{
+  "id": "f7d95786-0e98-4c08-b4af-6adcd82a8636",
+  "name": "SD Seminar",
+  "publisher": "MS",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "showMyCode": true,
+  "features": "TranslationFile",
+  "target": "Internal",
+  "idRange": {
+    "from": 123456700,
+    "to": 123456799
+  }
+}
