@@ -4,7 +4,6 @@ table 123456710 "CSD Seminar Reg. Header"
     //   Chapter 6 - Lab 1-3 & Lab 1-4
     //     - Created new table
 
-
     fields
     {
         field(1; "No."; Code[20])
